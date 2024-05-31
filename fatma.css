@@ -1,0 +1,114 @@
+body{
+	background-color:lightpink;
+}
+.title{
+	background-color: hotpink;
+	position: static;
+	top: 5px;
+	left: 0px;
+	width: 100%;
+	height: 100px;
+}
+.names{
+	position: absolute;
+	float: left;
+	padding: 0px;
+	color: white;
+	margin-left:70%;
+	margin-bottom: 45%;
+
+
+}
+
+.rangi{
+	color: white;
+	font-size: 15px;
+	margin-left: 40px;
+	display: inline-block;
+	margin-top: 15px;
+	font-style: ;
+}	
+.first{
+	width: 100%;
+	height: 100%;
+}
+ .IMAGE1{
+	width: 100%;
+	height:100%;
+
+
+	}
+.box{
+	background-color:white;
+	width: 85%;
+	align-content: center;
+	margin-top: 0%;
+	margin-left: 10%;
+	
+}
+.content{
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	opacity:0.9;
+
+
+}
+
+
+
+.content h5{
+	font-size:45px;
+	color:#fff;
+	align-items: center;
+	padding: 30px;
+	margin-bottom: 20%;
+	margin-right: 900px;
+	 display: inline;
+	
+
+}
+.last{
+	float: left;
+	width: 100%;
+	height: 100%;
+	position:relative;
+	top: 0;
+	left: 350px;
+	bottom: px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+.mauaji{
+width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+}
+.last PICHA{
+	margin margin-left: 20px;
+	padding-left: 20%;
+	float: left;
+}
+.kati{
+	float: left;
+	position: absolute;
+	left:64%;
+	top: 1340px;
+	height:300px;
+}
